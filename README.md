@@ -54,9 +54,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Troy2727&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Troy2727&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Troy2727&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Troy2727&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Troy2727&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Troy2727&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Let's Connect
 
