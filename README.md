@@ -77,6 +77,7 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy2727&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Troy2727&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Troy2727&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Troy2727&theme=tokyonight&utcOffset=-5)
 
 ## 🤝 Let's Connect
 
