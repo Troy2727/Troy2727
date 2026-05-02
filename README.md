@@ -92,6 +92,7 @@ I'm open to collaborations, freelance work, and interesting conversations about 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alexportfolio.net-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.alexportfolio.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexmieses-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmieses)
 [![Twitter](https://img.shields.io/badge/Twitter-@AlexMieses27-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlexMieses27)
+[![Email](https://img.shields.io/badge/Email-miesesr32@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miesesr32@gmail.com)
 
 ---
 
