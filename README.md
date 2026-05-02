@@ -54,9 +54,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Troy2727&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy2727&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Troy2727&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Troy2727&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Troy2727&theme=tokyonight)
 
 ## 🤝 Let's Connect
 
