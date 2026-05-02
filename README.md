@@ -1,22 +1,24 @@
 <img src="./banner_github.webp" alt="GitHub Banner" width="100%" />
 
-# Hi 👋, I'm Alex
+# Hi, I'm Alex 👋
 
-✨ **Innovative fullstack developer** with a passion for clean code and intuitive UX | MIT xPRO certified in MERN stack development | Building digital solutions that make a difference
+Full-stack developer with MIT xPRO certification in MERN stack development. I build fast, scalable web applications — from pixel-perfect UIs to production-grade APIs and cloud infrastructure.
 
 ## 🚀 About Me
-- **Full Stack Developer** specializing in modern web technologies since 2025
-- **Problem Solver** who loves turning complex challenges into elegant solutions
-- **Continuous Learner** always exploring cutting-edge technologies and best practices
-- **Team Player** experienced in agile development and collaborative environments
-- **Quality Focused** committed to writing clean, maintainable, and scalable code
+
+- 🔭 Currently building full-stack apps with React, Node.js, and Go
+- 🌱 Going deep on cloud infrastructure, distributed systems, and DevOps
+- 🎓 MIT xPRO certified — MERN stack development
+- 💬 Ask me about React, Node.js, Python, Docker, or anything web
+- ⚡ I believe great software is invisible — it just works
 
 ## 🎯 What I Do
-- 🌐 **Frontend Development**: Creating responsive, interactive user interfaces with React, Next.js, and modern CSS frameworks
-- ⚙️ **Backend Development**: Building robust APIs and server-side applications with Node.js, Python, and Go
-- ☁️ **DevOps & Cloud**: Implementing CI/CD pipelines, containerization, and cloud infrastructure
-- 📊 **Data & Analytics**: Working with databases, monitoring systems, and performance optimization
-- 🔧 **Full-Stack Solutions**: End-to-end application development from concept to deployment
+
+- 🌐 **Frontend** — React, Next.js, React Native, Tailwind — fast, accessible, responsive UIs
+- ⚙️ **Backend** — Node.js, Go, Python — RESTful and GraphQL APIs built for scale
+- ☁️ **DevOps & Cloud** — Docker, Kubernetes, CI/CD, AWS, GCP — ship with confidence
+- 🗄️ **Databases** — PostgreSQL, MongoDB, Redis — from schema design to query optimization
+- 📱 **Mobile** — Cross-platform React Native apps with a native feel
 
 ## 💻 Tech Stack
 
@@ -62,15 +64,19 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Full-Stack Web Applications
-- **E-commerce Platform**: Built with React, Node.js, and MongoDB featuring real-time inventory management
-- **Task Management System**: Next.js application with TypeScript, Prisma, and PostgreSQL
-- **Social Media Dashboard**: React Native app with Redux state management and Firebase backend
+### 🌐 Full-Stack Applications
+| Project | Stack | Description |
+|---|---|---|
+| **E-commerce Platform** | React · Node.js · MongoDB | Real-time inventory management with live order tracking |
+| **Task Management System** | Next.js · TypeScript · PostgreSQL | Collaborative workspace with Prisma ORM and role-based access |
+| **Social Media Dashboard** | React Native · Redux · Firebase | Cross-platform mobile app with real-time feeds and push notifications |
 
-### ☁️ DevOps & Infrastructure Projects
-- **CI/CD Pipeline**: Automated deployment pipeline using Jenkins, Docker, and Kubernetes
-- **Monitoring Stack**: Implemented Grafana + Prometheus monitoring for microservices architecture
-- **Infrastructure as Code**: Terraform modules for AWS cloud infrastructure provisioning
+### ☁️ DevOps & Infrastructure
+| Project | Stack | Description |
+|---|---|---|
+| **CI/CD Pipeline** | Jenkins · Docker · Kubernetes | Zero-downtime deployment pipeline with automated testing gates |
+| **Monitoring Stack** | Grafana · Prometheus | Full observability setup for microservices with alerting |
+| **Infrastructure as Code** | Terraform · AWS | Modular cloud infrastructure provisioned and version-controlled |
 
 ## 📈 GitHub Stats
 
@@ -81,9 +87,9 @@
 
 ## 🤝 Let's Connect
 
-- 💼 **Professional**: Open to collaboration on innovative projects
-- 🌱 **Learning**: Always interested in discussing new technologies and best practices
-- 📫 **Reach me**: Feel free to connect for opportunities, collaborations, or tech discussions
+I'm open to collaborations, freelance work, and interesting conversations about tech.
+
+> 💡 Whether you have a project in mind, want to talk shop, or just want to connect — my inbox is open.
 
 ---
 
