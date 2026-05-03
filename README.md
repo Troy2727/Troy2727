@@ -96,8 +96,5 @@ I'm open to collaborations, freelance work, and interesting conversations about 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake.svg" />
-</picture>
+<img alt="github-snake" src="https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake-dark.svg#gh-dark-mode-only" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake.svg#gh-light-mode-only" />
