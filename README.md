@@ -96,5 +96,4 @@ I'm open to collaborations, freelance work, and interesting conversations about 
 
 ---
 
-![github-snake](https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake-dark.svg#gh-dark-mode-only)
-![github-snake](https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake.svg#gh-light-mode-only)
+![github-snake](https://raw.githubusercontent.com/Troy2727/Troy2727/output/github-snake-dark.svg)
