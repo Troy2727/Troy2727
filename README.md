@@ -83,7 +83,7 @@ Clone and design voices, dub videos, transcribe, isolate vocals and make audiobo
 
 ### <img src="assets/icons/trophy.svg" width="24" height="24" align="top" alt="" /> [FanClash](https://fanclash.io): live sports debates, the crowd picks the winner
 
-<a href="https://fanclash.io"><img src="https://fanclash.io/fanclash-og.png" alt="FanClash: defend your hottest take on camera, live. Let the room decide." width="100%" /></a>
+<a href="https://fanclash.io"><img src="assets/fanclash-banner.gif" alt="FanClash: challenge ideas, win the crowd. The debate room with live video, live voting and live chat." width="100%" /></a>
 
 A real-time debate arena for sports fans: rep your team, challenge rival fans to live debates, let the crowd vote, and climb the leaderboards. React 19 · TypeScript · Go (Gin) · MySQL · Redis · Stream · Stripe.
 
