@@ -81,6 +81,14 @@ Clone and design voices, dub videos, transcribe, isolate vocals and make audiobo
 
 [![Repo](https://img.shields.io/badge/Repo-Troy2727%2Fvoxwell-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Troy2727/voxwell) [![Website](https://img.shields.io/badge/Website-voxwell.vercel.app-404040?style=for-the-badge&logo=vercel&logoColor=white)](https://voxwell.vercel.app)
 
+### 🏆 [FanClash](https://fanclash.io): live sports debates, the crowd picks the winner
+
+<a href="https://fanclash.io"><img src="https://fanclash.io/fanclash-og.png" alt="FanClash: defend your hottest take on camera, live. Let the room decide." width="100%" /></a>
+
+A real-time debate arena for sports fans: rep your team, challenge rival fans to live debates, let the crowd vote, and climb the leaderboards. React 19 · TypeScript · Go (Gin) · MySQL · Redis · Stream · Stripe.
+
+[![Live](https://img.shields.io/badge/Live-fanclash.io-F97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fanclash.io)
+
 ### 🌐 More projects, all live
 | Project | Stack | Description | Live |
 |---|---|---|---|
