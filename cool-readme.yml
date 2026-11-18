@@ -1,0 +1,9 @@
+# Stat cards, see https://github.com/pedrocatalao/github-cool-readme
+show: [summary, languages, streaks, weekly]
+count:
+  private: true
+  orgs: true
+look:
+  style: dotmatrix
+  color: purple
+  background: none
