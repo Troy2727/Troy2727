@@ -2,6 +2,8 @@
 
 # Hi, I'm Alex 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=30&pause=1200&color=A855F7&vCenter=true&width=640&height=50&lines=Full-stack+developer;Building+Voxwell%3A+local+voice+AI;React+%C2%B7+Node.js+%C2%B7+Go+%C2%B7+Python;Shipping+live+apps+on+Vercel" alt="Full-stack developer. Building Voxwell: local voice AI. React, Node.js, Go, Python. Shipping live apps on Vercel." />
+
 Full-stack developer with MIT xPRO certification in MERN stack development. I build fast, scalable web applications — from pixel-perfect UIs to production-grade APIs and cloud infrastructure.
 
 ## 🚀 About Me
@@ -21,6 +23,11 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 - 📱 **Mobile** — Cross-platform React Native apps with a native feel
 
 ## 💻 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-404040?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-404040?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<details>
+<summary><b>See the full stack</b></summary>
 
 **DevOps & Infrastructure**
 
@@ -62,21 +69,26 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+</details>
+
 ## 🚀 Featured Projects
 
-### 🌐 Full-Stack Applications
-| Project | Stack | Description |
-|---|---|---|
-| **E-commerce Platform** | React · Node.js · MongoDB | Real-time inventory management with live order tracking |
-| **Task Management System** | Next.js · TypeScript · PostgreSQL | Collaborative workspace with Prisma ORM and role-based access |
-| **Social Media Dashboard** | React Native · Redux · Firebase | Cross-platform mobile app with real-time feeds and push notifications |
+### 🎙️ [Voxwell](https://github.com/Troy2727/voxwell): a voice studio that runs on your own computer
 
-### ☁️ DevOps & Infrastructure
-| Project | Stack | Description |
-|---|---|---|
-| **CI/CD Pipeline** | Jenkins · Docker · Kubernetes | Zero-downtime deployment pipeline with automated testing gates |
-| **Monitoring Stack** | Grafana · Prometheus | Full observability setup for microservices with alerting |
-| **Infrastructure as Code** | Terraform · AWS | Modular cloud infrastructure provisioned and version-controlled |
+<a href="https://github.com/Troy2727/voxwell"><img src="https://raw.githubusercontent.com/Troy2727/voxwell/main/docs/readme/voxwell-banner.gif" alt="Voxwell Voice Studio demo" width="100%" /></a>
+
+Clone and design voices, dub videos, transcribe, isolate vocals and make audiobooks, all offline. Works with Claude Code, Codex and Cursor through its CLI and MCP server. Python · FastAPI · PyTorch · React. MIT licensed.
+
+[![Repo](https://img.shields.io/badge/Repo-Troy2727%2Fvoxwell-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Troy2727/voxwell) [![Website](https://img.shields.io/badge/Website-voxwell.vercel.app-404040?style=for-the-badge&logo=vercel&logoColor=white)](https://voxwell.vercel.app)
+
+### 🌐 More projects, all live
+| Project | Stack | Description | Live |
+|---|---|---|---|
+| **[LiveDocs](https://github.com/Troy2727/coedit_flow)** | Next.js · Liveblocks · Lexical · Clerk | Real-time collaborative document editor with live cursors, comments, sharing and version history | [Open](https://coeditflow.vercel.app) |
+| **[Analytica](https://github.com/Troy2727/analytica)** | Next.js · Supabase | Privacy-friendly website analytics from one script tag: visitors, sources, devices, PageSpeed scores and Discord alerts | [Open](https://analytica-phi.vercel.app) |
+| **[NEXORA](https://github.com/Troy2727/NEXORA)** | FastAPI · PostgreSQL · Redis | Task manager for teams: kanban board, goals, reports, invites and chat | [Open](https://nexora-five-dun.vercel.app/) |
+| **[Music streaming app](https://github.com/Troy2727/spotify_clone)** | React · Express · MongoDB · Socket.IO | Player with a live audio waveform, album pages, friends' activity, real-time chat and an admin dashboard | [Open](https://spotify-clone-jade-pi-29.vercel.app) |
+| **[3D Developer Portfolio](https://github.com/Troy2727/3D_Developer_Portfolio)** | React Three Fiber · GSAP · Tailwind | Animated Three.js hero room, scroll-driven project showcase and a working contact form | [Open](https://www.alexportfolio.net/) |
 
 ## 📈 GitHub Stats
 
