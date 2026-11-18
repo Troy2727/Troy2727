@@ -1,6 +1,6 @@
 <img src="./banner_github.webp" alt="GitHub Banner" width="100%" />
 
-# Hi, I'm Alex 👋
+# Hi, I'm Alex <img src="assets/icons/hand.svg" width="36" height="36" align="top" alt="" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=30&pause=1200&color=A855F7&vCenter=true&width=700&height=50&lines=Full-stack+developer;Building+Voxwell%3A+local+voice+AI;Building+FanClash%3A+live+sports+debates;React+%C2%B7+Node.js+%C2%B7+Go+%C2%B7+Python;Shipping+live+apps+on+Vercel" alt="Full-stack developer. Building Voxwell: local voice AI. Building FanClash: live sports debates. React, Node.js, Go, Python. Shipping live apps on Vercel." />
 
@@ -8,19 +8,19 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 
 ## <img src="assets/icons/user.svg" width="28" height="28" align="top" alt="" /> About Me
 
-- 🔭 Currently building full-stack apps with React, Node.js, and Go
-- 🌱 Going deep on cloud infrastructure, distributed systems, and DevOps
-- 🎓 MIT xPRO certified — MERN stack development
-- 💬 Ask me about React, Node.js, Python, Docker, or anything web
-- ⚡ I believe great software is invisible — it just works
+- <img src="assets/icons/telescope.svg" width="20" height="20" align="top" alt="" /> Currently building full-stack apps with React, Node.js, and Go
+- <img src="assets/icons/sprout.svg" width="20" height="20" align="top" alt="" /> Going deep on cloud infrastructure, distributed systems, and DevOps
+- <img src="assets/icons/graduation-cap.svg" width="20" height="20" align="top" alt="" /> MIT xPRO certified — MERN stack development
+- <img src="assets/icons/message-circle.svg" width="20" height="20" align="top" alt="" /> Ask me about React, Node.js, Python, Docker, or anything web
+- <img src="assets/icons/zap.svg" width="20" height="20" align="top" alt="" /> I believe great software is invisible — it just works
 
 ## <img src="assets/icons/target.svg" width="28" height="28" align="top" alt="" /> What I Do
 
-- 🌐 **Frontend** — React, Next.js, React Native, Tailwind — fast, accessible, responsive UIs
-- ⚙️ **Backend** — Node.js, Go, Python — RESTful and GraphQL APIs built for scale
-- ☁️ **DevOps & Cloud** — Docker, Kubernetes, CI/CD, AWS, GCP — ship with confidence
-- 🗄️ **Databases** — PostgreSQL, MongoDB, Redis — from schema design to query optimization
-- 📱 **Mobile** — Cross-platform React Native apps with a native feel
+- <img src="assets/icons/monitor.svg" width="20" height="20" align="top" alt="" /> **Frontend** — React, Next.js, React Native, Tailwind — fast, accessible, responsive UIs
+- <img src="assets/icons/server.svg" width="20" height="20" align="top" alt="" /> **Backend** — Node.js, Go, Python — RESTful and GraphQL APIs built for scale
+- <img src="assets/icons/cloud.svg" width="20" height="20" align="top" alt="" /> **DevOps & Cloud** — Docker, Kubernetes, CI/CD, AWS, GCP — ship with confidence
+- <img src="assets/icons/database.svg" width="20" height="20" align="top" alt="" /> **Databases** — PostgreSQL, MongoDB, Redis — from schema design to query optimization
+- <img src="assets/icons/smartphone.svg" width="20" height="20" align="top" alt="" /> **Mobile** — Cross-platform React Native apps with a native feel
 
 ## <img src="assets/icons/layers.svg" width="28" height="28" align="top" alt="" /> Tech Stack
 
