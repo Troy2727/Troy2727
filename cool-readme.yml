@@ -4,6 +4,9 @@ count:
   private: true
   orgs: true
 look:
-  style: classic
+  style: dotmatrix
   color: purple
-  background: none
+  background: "000000"
+cards:
+  languages:
+    other: false
