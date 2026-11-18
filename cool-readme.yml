@@ -4,6 +4,6 @@ count:
   private: true
   orgs: true
 look:
-  style: dotmatrix
+  style: classic
   color: purple
   background: none
