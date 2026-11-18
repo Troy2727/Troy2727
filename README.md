@@ -6,7 +6,7 @@
 
 Full-stack developer with MIT xPRO certification in MERN stack development. I build fast, scalable web applications — from pixel-perfect UIs to production-grade APIs and cloud infrastructure.
 
-## 🚀 About Me
+## <img src="assets/icons/user.svg" width="28" height="28" align="top" alt="" /> About Me
 
 - 🔭 Currently building full-stack apps with React, Node.js, and Go
 - 🌱 Going deep on cloud infrastructure, distributed systems, and DevOps
@@ -14,7 +14,7 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 - 💬 Ask me about React, Node.js, Python, Docker, or anything web
 - ⚡ I believe great software is invisible — it just works
 
-## 🎯 What I Do
+## <img src="assets/icons/target.svg" width="28" height="28" align="top" alt="" /> What I Do
 
 - 🌐 **Frontend** — React, Next.js, React Native, Tailwind — fast, accessible, responsive UIs
 - ⚙️ **Backend** — Node.js, Go, Python — RESTful and GraphQL APIs built for scale
@@ -22,7 +22,7 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 - 🗄️ **Databases** — PostgreSQL, MongoDB, Redis — from schema design to query optimization
 - 📱 **Mobile** — Cross-platform React Native apps with a native feel
 
-## 💻 Tech Stack
+## <img src="assets/icons/layers.svg" width="28" height="28" align="top" alt="" /> Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-404040?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-404040?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -71,9 +71,9 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 
 </details>
 
-## 🚀 Featured Projects
+## <img src="assets/icons/rocket.svg" width="28" height="28" align="top" alt="" /> Featured Projects
 
-### 🎙️ [Voxwell](https://github.com/Troy2727/voxwell): a voice studio that runs on your own computer
+### <img src="assets/icons/audio-lines.svg" width="24" height="24" align="top" alt="" /> [Voxwell](https://github.com/Troy2727/voxwell): a voice studio that runs on your own computer
 
 <a href="https://github.com/Troy2727/voxwell"><img src="https://raw.githubusercontent.com/Troy2727/voxwell/main/docs/readme/voxwell-banner.gif" alt="Voxwell Voice Studio demo" width="100%" /></a>
 
@@ -81,7 +81,7 @@ Clone and design voices, dub videos, transcribe, isolate vocals and make audiobo
 
 [![Repo](https://img.shields.io/badge/Repo-Troy2727%2Fvoxwell-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Troy2727/voxwell) [![Website](https://img.shields.io/badge/Website-voxwell.vercel.app-404040?style=for-the-badge&logo=vercel&logoColor=white)](https://voxwell.vercel.app)
 
-### 🏆 [FanClash](https://fanclash.io): live sports debates, the crowd picks the winner
+### <img src="assets/icons/trophy.svg" width="24" height="24" align="top" alt="" /> [FanClash](https://fanclash.io): live sports debates, the crowd picks the winner
 
 <a href="https://fanclash.io"><img src="https://fanclash.io/fanclash-og.png" alt="FanClash: defend your hottest take on camera, live. Let the room decide." width="100%" /></a>
 
@@ -89,7 +89,7 @@ A real-time debate arena for sports fans: rep your team, challenge rival fans to
 
 [![Live](https://img.shields.io/badge/Live-fanclash.io-F97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fanclash.io)
 
-### 🌐 More projects, all live
+### <img src="assets/icons/globe.svg" width="24" height="24" align="top" alt="" /> More projects, all live
 | Project | Stack | Description | Live |
 |---|---|---|---|
 | **[LiveDocs](https://github.com/Troy2727/coedit_flow)** | Next.js · Liveblocks · Lexical · Clerk | Real-time collaborative document editor with live cursors, comments, sharing and version history | [Open](https://coeditflow.vercel.app) |
@@ -98,7 +98,7 @@ A real-time debate arena for sports fans: rep your team, challenge rival fans to
 | **[Music streaming app](https://github.com/Troy2727/spotify_clone)** | React · Express · MongoDB · Socket.IO | Player with a live audio waveform, album pages, friends' activity, real-time chat and an admin dashboard | [Open](https://spotify-clone-jade-pi-29.vercel.app) |
 | **[3D Developer Portfolio](https://github.com/Troy2727/3D_Developer_Portfolio)** | React Three Fiber · GSAP · Tailwind | Animated Three.js hero room, scroll-driven project showcase and a working contact form | [Open](https://www.alexportfolio.net/) |
 
-## 📈 GitHub Stats
+## <img src="assets/icons/chart-line.svg" width="28" height="28" align="top" alt="" /> GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/summary-dark.svg">
@@ -117,7 +117,7 @@ A real-time debate arena for sports fans: rep your team, challenge rival fans to
   <img src="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
 
-## 🤝 Let's Connect
+## <img src="assets/icons/handshake.svg" width="28" height="28" align="top" alt="" /> Let's Connect
 
 I'm open to collaborations, freelance work, and interesting conversations about tech.
 
