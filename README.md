@@ -2,7 +2,7 @@
 
 # Hi, I'm Alex 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=30&pause=1200&color=A855F7&vCenter=true&width=640&height=50&lines=Full-stack+developer;Building+Voxwell%3A+local+voice+AI;React+%C2%B7+Node.js+%C2%B7+Go+%C2%B7+Python;Shipping+live+apps+on+Vercel" alt="Full-stack developer. Building Voxwell: local voice AI. React, Node.js, Go, Python. Shipping live apps on Vercel." />
+<img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=30&pause=1200&color=A855F7&vCenter=true&width=700&height=50&lines=Full-stack+developer;Building+Voxwell%3A+local+voice+AI;Building+FanClash%3A+live+sports+debates;React+%C2%B7+Node.js+%C2%B7+Go+%C2%B7+Python;Shipping+live+apps+on+Vercel" alt="Full-stack developer. Building Voxwell: local voice AI. Building FanClash: live sports debates. React, Node.js, Go, Python. Shipping live apps on Vercel." />
 
 Full-stack developer with MIT xPRO certification in MERN stack development. I build fast, scalable web applications — from pixel-perfect UIs to production-grade APIs and cloud infrastructure.
 
