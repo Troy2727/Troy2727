@@ -80,10 +80,22 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Troy2727&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Troy2727&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Troy2727&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Troy2727&theme=tokyonight&utcOffset=-5)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/streaks-light.svg" width="400" alt="Contribution streaks">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/Troy2727/Troy2727/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
 
 ## 🤝 Let's Connect
 
