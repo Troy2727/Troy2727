@@ -75,7 +75,9 @@ Full-stack developer with MIT xPRO certification in MERN stack development. I bu
 
 ### <img src="assets/icons/audio-lines.svg" width="24" height="24" align="top" alt="" /> [Voxwell](https://github.com/Troy2727/voxwell): a voice studio that runs on your own computer
 
-<a href="https://github.com/Troy2727/voxwell"><img src="https://raw.githubusercontent.com/Troy2727/voxwell/main/docs/readme/voxwell-banner.gif" alt="Voxwell Voice Studio demo" width="100%" /></a>
+<a href="https://cdn.jsdelivr.net/gh/Troy2727/voxwell@b1cc4bf9fd8991b40d82b09aba61c6d67f0ecb0b/docs/readme/voxwell-hero-demo.mp4" title="Watch the full demo with sound"><img src="https://raw.githubusercontent.com/Troy2727/voxwell/main/docs/readme/voxwell-banner.gif" alt="Voxwell Voice Studio demo. Click to watch the full one-minute demo with sound." width="100%" /></a>
+
+<p align="center"><sub>Click to watch the full demo with sound.</sub></p>
 
 Clone and design voices, dub videos, transcribe, isolate vocals and make audiobooks, all offline. Works with Claude Code, Codex and Cursor through its CLI and MCP server. Python · FastAPI · PyTorch · React. MIT licensed.
 
@@ -83,7 +85,9 @@ Clone and design voices, dub videos, transcribe, isolate vocals and make audiobo
 
 ### <img src="assets/icons/trophy.svg" width="24" height="24" align="top" alt="" /> [FanClash](https://fanclash.io): live sports debates, the crowd picks the winner
 
-<a href="https://fanclash.io"><img src="assets/fanclash-banner.gif" alt="FanClash: challenge ideas, win the crowd. The debate room with live video, live voting and live chat." width="100%" /></a>
+<a href="https://github.com/Troy2727/Troy2727/blob/main/assets/fanclash-banner.gif" title="Open the banner full size"><img src="assets/fanclash-banner.gif" alt="FanClash: challenge ideas, win the crowd. The debate room with live video, live voting and live chat." width="100%" /></a>
+
+<p align="center"><sub>Click the banner to see it full size.</sub></p>
 
 A real-time debate arena for sports fans: rep your team, challenge rival fans to live debates, let the crowd vote, and climb the leaderboards. React 19 · TypeScript · Go (Gin) · MySQL · Redis · Stream · Stripe.
 
